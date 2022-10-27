@@ -6,9 +6,9 @@
 <br/>
 
 
-- 🧑🏾 I'm Sameer Narendran, a sophomore at the University of Wisconsin-Madison
+- 🧑 I'm Sameer Narendran, a sophomore at the University of Wisconsin-Madison
 - 🎓 I'm studying Computer Science and Math
-- 👨🏾‍💻️ I enjoy working on Machine Learning, Full-Stack Development, and everything in between
+- 👨‍💻️ I enjoy working on Machine Learning, Full-Stack Development, and everything in between
 - 📑 Check out my portfolio [here](sameer-n012.github.io/portfolio)
 - 💬 You can reach me through [my email](mailto:sameer.narendran@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/sameer-narendran/)
 
