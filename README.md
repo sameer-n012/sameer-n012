@@ -6,9 +6,9 @@
 <br/>
 
 
-- 🧑 I'm Sameer Narendran, a sophomore at the University of Wisconsin-Madison
+- 🧑 I'm Sameer Narendran, a senior at the University of Wisconsin-Madison
 - 🎓 I'm studying Computer Science and Math
-- 👨‍💻️ I enjoy working on Machine Learning, Full-Stack Development, and everything in between
+- 👨‍💻️ I enjoy working on Machine Learning, especially Natural Language Processing
 - 📑 Check out my portfolio [here](https://narendran.dev)
 - 💬 You can reach me through [my email](mailto:sameer.narendran@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/sameer-narendran/)
 
@@ -22,19 +22,21 @@
 ![](https://img.shields.io/badge/-HTML/CSS%20-088D6E)
 ![](https://img.shields.io/badge/-SQL%20-088D6E)
 
-![](https://img.shields.io/badge/-ReactJS%20-088D6E)
-![](https://img.shields.io/badge/-Redux%20-088D6E)
-![](https://img.shields.io/badge/-MongoDB%20-088D6E)
-![](https://img.shields.io/badge/-MySQL%20-088D6E)
-![](https://img.shields.io/badge/-Scikit-Learn%20-088D6E)
-![](https://img.shields.io/badge/-Tensorflow%20-088D6E)
+![](https://img.shields.io/badge/-React%20-088D6E)
+![](https://img.shields.io/badge/-NodeJS%20-088D6E)
+![](https://img.shields.io/badge/-SQL%20-088D6E)
+![](https://img.shields.io/badge/-Linux%20-088D6E)
+![](https://img.shields.io/badge/-PyTorch%20-088D6E)
 ![](https://img.shields.io/badge/-Git%20-088D6E)
+![](https://img.shields.io/badge/-Docker%20-088D6E)
 
+<!--
 -------
 
 ## Some Stats...
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer-n012&custom_title=Some%20of%20my%20recent%20work&count_private=true&theme=tokyonight)
 
+-->
 
 <!---
 sameer-n012/sameer-n012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
