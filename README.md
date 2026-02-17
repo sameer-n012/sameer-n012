@@ -15,20 +15,24 @@
 -------
 
 ## Skills & Technologies
-![](https://img.shields.io/badge/-Java%20-088D6E)
 ![](https://img.shields.io/badge/-Python%20-088D6E)
-![](https://img.shields.io/badge/-C%20-088D6E)
+![](https://img.shields.io/badge/-Rust%20-088D6E)
+![](https://img.shields.io/badge/-Go%20-088D6E)
+![](https://img.shields.io/badge/-C/C++%20-088D6E)
+![](https://img.shields.io/badge/-Java%20-088D6E)
 ![](https://img.shields.io/badge/-JavaScript%20-088D6E)
 ![](https://img.shields.io/badge/-HTML/CSS%20-088D6E)
 ![](https://img.shields.io/badge/-SQL%20-088D6E)
 
-![](https://img.shields.io/badge/-React%20-088D6E)
-![](https://img.shields.io/badge/-NodeJS%20-088D6E)
-![](https://img.shields.io/badge/-SQL%20-088D6E)
-![](https://img.shields.io/badge/-Linux%20-088D6E)
+![](https://img.shields.io/badge/-CUDA%20-088D6E)
 ![](https://img.shields.io/badge/-PyTorch%20-088D6E)
+![](https://img.shields.io/badge/-NodeJS%20-088D6E)
+![](https://img.shields.io/badge/-React%20-088D6E)
+![](https://img.shields.io/badge/-AWS%20-088D6E)
 ![](https://img.shields.io/badge/-Git%20-088D6E)
 ![](https://img.shields.io/badge/-Docker%20-088D6E)
+![](https://img.shields.io/badge/-Linux%20-088D6E)
+
 
 <!--
 -------
