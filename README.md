@@ -6,8 +6,8 @@
 <br/>
 
 
-- 🧑 I'm Sameer Narendran, a senior at the University of Wisconsin-Madison
-- 🎓 I'm studying Computer Science and Math
+- 🧑 I'm Sameer Narendran, a Master's student at the University of Illinois Urbana-Champaign
+- 🎓 I'm studying Computer Science
 - 👨‍💻️ I enjoy working on Machine Learning, especially Natural Language Processing
 - 📑 Check out my portfolio [here](https://narendran.dev)
 - 💬 You can reach me through [my email](mailto:sameer.narendran@gmail.com) or contact me on [LinkedIn](https://www.linkedin.com/in/sameer-narendran/)
